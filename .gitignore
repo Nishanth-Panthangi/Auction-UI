@@ -1,0 +1,41 @@
+# Compiled output
+/dist/
+/build/
+/out/
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Cache and temporary files
+*.cache/
+*.tmp/
+*.swp
+*.bak
+*.backup
+*.class
+
+# Build system files
+npm-debug.log
+yarn-error.log
+
+# Miscellaneous
+*.o
+*.pyc
+
